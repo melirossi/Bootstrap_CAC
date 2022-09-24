@@ -1,0 +1,19 @@
+* {
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+}
+.carousel-inner {
+    filter: brightness(70%);
+}
+u {    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+}
+.pie {
+    background: linear-gradient(90deg, #121958 10%, #3A4178 90%);
+}
+.form {
+    margin-left: 15%;
+    margin-right: 15%;
+}
